@@ -1,0 +1,6 @@
+./* linguist-detectable
+./* -linguist-vendored
+
+### Declaring files handled by transcrypt
+## Certificate files
+**/cert filter=crypt merge=crypt diff=crypt
