@@ -52,6 +52,14 @@ The core dataset (`dataset/Churn-Dataset.xlsx` and `dataset/Strategy Storm 2025 
     *   Parameter extraction and interpretation for selected models (XGBoost, Deep Learning).
 *   **Dependencies:** Python 3.x, Jupyter Notebook/Lab, Pandas, NumPy, Matplotlib, Seaborn, ydata-profiling, Sweetviz, H2O.ai.
 
+.Example Visualizations from Python Analysis
+[%collapsible]
+====
+image::images/heatmap.png[Correlation Heatmap, width=600]
+
+image::images/model.png[H2O AutoML Model Leaderboard, width=600]
+====
+
 === Power BI Analysis
 
 *   **Files:**
@@ -59,3 +67,6 @@ The core dataset (`dataset/Churn-Dataset.xlsx` and `dataset/Strategy Storm 2025 
     *   `powerbi_guide.adoc`: Technical documentation outlining the strategy for data ingestion, modeling, and visualization within Power BI.
     *   `powerbi_data_cleaning.adoc`: Technical documentation detailing data cleaning and transformation techniques using Power Query.
 *   **Description:** Power BI is used for visual exploration and dashboarding. It provides an interactive way to slice and dice the data, visualizing churn rates across different customer segments and identifying high-level trends. The `.adoc` files provide methodological context for the Power BI implementation.
+
+.Power BI Dashboard Snippet
+image::images/Dashboard_menu.jpeg[Power BI Dashboard Menu, width=600]
