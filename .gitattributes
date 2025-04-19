@@ -3,4 +3,4 @@
 
 ### Declaring files handled by transcrypt
 ## Certificate files
-**/cert* filter=crypt merge=crypt diff=crypt
+cert* filter=crypt merge=crypt diff=crypt
