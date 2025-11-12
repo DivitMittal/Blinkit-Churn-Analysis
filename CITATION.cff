@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it as below."
+type: software
+title: "Blinkit Customer Churn Analysis"
+abstract: >-
+  A comprehensive data science project analyzing customer churn for Blinkit
+  (quick commerce platform), combining exploratory data analysis (EDA),
+  automated machine learning (H2O AutoML), and interactive Power BI dashboards
+  to identify churn drivers and recommend retention strategies.
+authors:
+  - family-names: Mittal
+    given-names: Divit
+    email: 64.69.76.69.74.m@gmail.com
+    orcid: https://orcid.org/0000-0003-4282-5329
+repository-code: "https://github.com/DivitMittal/Blinkit-Churn-Analysis"
+keywords:
+  - customer churn
+  - churn analysis
+  - machine learning
+  - AutoML
+  - H2O.ai
+  - data science
+  - quick commerce
+  - Blinkit
+  - predictive analytics
+  - Power BI
+  - customer retention
+  - XGBoost
+date-released: 2025-01-01
+version: "1.0.0"
+license: MIT
